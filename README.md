@@ -1,7 +1,6 @@
 <a href="https://chat.vercel.ai/">
  <img src="app/(chat)/mychat.png.jpg" 
-     alt="Next.js 14 and App Router-ready AI chatbot."
-     style="width: 200px; height: auto;">
+     alt="Next.js 14 and App Router-ready AI chatbot.">
   <h1 align="center">My AI ChatBot</h1>
  
 
